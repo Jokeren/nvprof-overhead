@@ -2,8 +2,8 @@
 
 ### Prerequisites
 
-1. `gcc>=6.4.0`, `cmake>=3.3.0`, `nvcc>=10.0`
-2. `nvcc`, `gcc`, `mpirun`, `cmake` modules are loaded
+1. `nvcc`, `gcc`, `mpirun`, `cmake` commands are on your path
+2. `gcc>=6.4.0`, `cmake>=3.3.0`, `nvcc>=10.0`
 
 ### Build
 
